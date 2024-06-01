@@ -1,6 +1,6 @@
 <div align="center">
   <kbd>
-  <a href="https://github.com/sexfrance/mass-server-maker">
+  <a href="https://github.com/sexfrance/Mass-Server-Maker">
   </a>
   </kbd>
   
@@ -11,11 +11,11 @@
     <br />
     <a href="https://discord.vast.sh/">💬 Discord</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Creator#-changelog">📜 ChangeLog</a>
+    <a href="https://github.com/sexfrance/Mass-Server-Maker#-changelog">📜 ChangeLog</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Creator/issues">⚠️ Report Bug</a>
+    <a href="https://github.com/sexfrance/Mass-Server-Maker/issues">⚠️ Report Bug</a>
     ·
-    <a href="https://github.com/imvast/Discord-Account-Creator/issues">💡 Request Feature</a>
+    <a href="https://github.com/sexfrance/Mass-Server-Maker/issues">💡 Request Feature</a>
   </p>
 </div>
 
@@ -55,7 +55,7 @@ v0.0.1 ⋮ 4/9/2023
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/sexfrance/mass-server-make.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/stars/sexfrance/mass-server-makesvg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
-  <img src="https://img.shields.io/github/languages/top/sexfrance/mass-server-make.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
+  <img src="https://img.shields.io/github/license/sexfrance/Mass-Server-Maker.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/stars/sexfrance/Mass-Server-Maker.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=IOTA"/>
+  <img src="https://img.shields.io/github/languages/top/sexfrance/Mass-Server-Maker.svg?style=for-the-badge&labelColor=black&color=f429ff&logo=python"/>
 </p>
