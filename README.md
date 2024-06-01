@@ -1,9 +1,5 @@
 <div align="center">
-  <kbd>
-  <a href="https://github.com/sexfrance/Mass-Server-Maker">
-  </a>
-  </kbd>
-  
+ 
   <h2 align="center">Discord - Mass Server Maker (WORKING BUT DISCONTINUED)</h2>
   <p align="center">
     A simple program that creates bulk servers on a discord account, the script was made in 15 minutes for personal use, expect some bugs
