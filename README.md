@@ -9,7 +9,7 @@
     A simple program that creates bulk servers on a discord account, the script was made in 15 minutes for personal use, expect some bugs
     <br />
     <br />
-    <a href="https://discord.vast.sh/">💬 Discord</a>
+    <a href="https://discord.gg/bestnitro">💬 Discord</a>
     ·
     <a href="https://github.com/sexfrance/Mass-Server-Maker#-changelog">📜 ChangeLog</a>
     ·
